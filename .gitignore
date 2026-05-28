@@ -1,0 +1,26 @@
+# Build folders
+build/
+cmake-build-debug/
+cmake-build-release/
+
+# Qt Creator
+.qtcreator/
+*.pro.user
+*.user
+
+# CMake
+CMakeCache.txt
+CMakeFiles/
+
+# Compiled files
+*.o
+*.obj
+*.exe
+*.dll
+
+# Visual Studio / IDE
+.vs/
+.idea/
+
+# macOS
+.DS_Store
